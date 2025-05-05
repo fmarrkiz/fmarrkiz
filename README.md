@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning front-end development (HTML5, CSS, React, JS, Node.js) in Valenciennes
 
-📫 How to reach me: mariekfruchart@outlook.com
-
-💬 Ask me about anything! I'm always keen to start a conversation or a debate, that's how I learn the best
-
+💬 Ask me about anything! I'm always keen to start a debate or a conversation
 
 
