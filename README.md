@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning front-end development (HTML5, CSS, React, JS, Node.js) in Valenciennes
 
-💬 Ask me about anything! I'm always keen to start a debate or a conversation
+💬 Ask me about anything! I'm always keen to start a debate or a conversation 🙏
 
 
