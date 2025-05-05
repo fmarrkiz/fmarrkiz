@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+😄 I'm Marie (she/they)
+
+🌱 I’m currently learning front-end development (HTML5, CSS, React, JS, Node.js) in Valenciennes
+
+📫 How to reach me: mariekfruchart@outlook.com
+
+💬 Ask me about anything! I'm always keen to start a conversation or a debate, that's how I learn the best
+
+
+
